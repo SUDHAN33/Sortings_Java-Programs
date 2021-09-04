@@ -1,1 +1,1 @@
-# Sortings_Java-Programs
+# This repository consists of sortings algorithms in Java
